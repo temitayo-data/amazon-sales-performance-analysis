@@ -1,4 +1,6 @@
 # Amazon Sales Performance Analysis (2019–2024)
+<img width="971" height="661" alt="Amazon Sales Performance 2" src="https://github.com/user-attachments/assets/a01b9a99-c2a1-4ced-bbe5-9133a61ebf62" />
+<img width="974" height="667" alt="Amazon Sales Performance 1" src="https://github.com/user-attachments/assets/5eeeb473-8cfa-4882-b2a0-5b8099d3f3a1" />
 
 ## Project Overview
 
